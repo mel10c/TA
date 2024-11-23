@@ -8,8 +8,6 @@ title: 我们控制的天空下
  <p style="font-size: 50; color:#d08770; font-family:'fira code'">HAPPY BIRTHDAY 🍊</p> <p style="font-size: 25; color:var(--primary); font-family:'LiHei Pro'">祝我们世界上最最最最可爱的姐姐 易柯辰 ！生日快乐！！！</p>
 </div>
 
-# 生日快乐
-
 # 小树枝
 
 - [[回信.md]]
