@@ -3,9 +3,9 @@ title: HAPPY BIRTHDAY!!!
 ---
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 0px dotted #e0e0e0; -moz-column-rule: 0px dotted #e0e0e0; column-rule: 0px dotted #e0e0e0; column-width: 100px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqyvtHnTnE1UmRMzO9xJHamN7a-V5rB35wxw&s"/ style="width: calc(100%/1.5)">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqyvtHnTnE1UmRMzO9xJHamN7a-V5rB35wxw&s"/ style="width: calc(100%/1.25)">
  <br> <br>
- <p style="font-size: 50; color:#d08770; font-family:'LiHei Pro'">易柯辰<br>愿你永远自由<br>愿你永远心有所向</p> <p style="font-size: 25; color:var(--primary); font-family:'LiHei Pro'">祝我们世界上最最最最可爱的姐姐 易柯辰 <br>🥳 生日快乐 🥳<br>无论世界怎么样 要一起走的尽兴 好不好！</p>
+ <p style="font-size: 50; color:#d08770; font-family:'LiHei Pro'">易柯辰<br>愿你永远自由<br>愿你永远心有所向<br>愿你能无限的拥有属于你自己的模样</p> <p style="font-size: 25; color:var(--primary); font-family:'LiHei Pro'">祝我们世界上最最最最可爱的姐姐 易柯辰 <br>🥳 生日快乐 🥳<br></p>
 </div>
 
 
